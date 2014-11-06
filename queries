@@ -1,0 +1,102 @@
+<parameters>
+  <query>
+    <number>QUERY-0001</number>
+    <text>raspberry pi</text>
+  </query>
+<query>
+    <number>QUERY-0002</number>
+    <text>uss carl vinson</text>
+  </query>
+<query>
+    <number>QUERY-0003</number>
+    <text>reviews of les miserables</text>
+  </query>
+<query>
+    <number>QUERY-0004</number>
+    <text>rules of golf</text>
+  </query>
+<query>
+    <number>QUERY-0005</number>
+    <text>average charitable donation</text>
+  </query>
+<query>
+    <number>QUERY-0006</number>
+    <text>wind power</text>
+  </query>
+<query>
+    <number>QUERY-0007</number>
+    <text>bph treatment</text>
+  </query>
+<query>
+    <number>QUERY-0008</number>
+    <text>doctor zhivago</text>
+  </query>
+<query>
+    <number>QUERY-0009</number>
+    <text>land surveyor</text>
+  </query>
+<query>
+    <number>QUERY-0010</number>
+    <text>what is madagascar known for</text>
+  </query>
+<query>
+    <number>QUERY-0011</number>
+    <text>home theater systems</text>
+  </query>
+<query>
+    <number>QUERY-0012</number>
+    <text>carpal tunnel syndrome</text>
+  </query>
+<query>
+    <number>QUERY-0013</number>
+    <text>capital gains tax rate</text>
+  </query>
+<query>
+    <number>QUERY-0014</number>
+    <text>maryland department of natural resources</text>
+  </query>
+<query>
+    <number>QUERY-0015</number>
+    <text>kids earth day activities</text>
+  </query>
+<query>
+    <number>QUERY-0016</number>
+    <text>solar water fountains</text>
+  </query>
+<query>
+    <number>QUERY-0017</number>
+    <text>what was the name of elvis presley's home</text>
+  </query>
+<query>
+    <number>QUERY-0018</number>
+    <text>electoral college 2008 results</text>
+  </query>
+<query>
+    <number>QUERY-0019</number>
+    <text>making chicken soup from scratch</text>
+  </query>
+<query>
+    <number>QUERY-0020</number>
+    <text>this is my query</text>
+  </query>
+<query>
+    <number>QUERY-0021</number>
+    <text>making chicken soup from scratch</text>
+  </query>
+<query>
+    <number>QUERY-0022</number>
+    <text>this is my query</text>
+  </query>
+<query>
+    <number>QUERY-00023</number>
+    <text>hurricane Irene flooding in manville</text>
+  </query>
+<query>
+    <number>QUERY-00024</number>
+    <text>dark chocolate health benefits</text>
+  </query>
+<query>
+    <number>QUERY-0025</number>
+    <text>symptoms cow</text>
+  </query>
+</parameters>
